@@ -5,7 +5,7 @@
         <div class="section-label"><span></span> CONTACT</div>
             <h2>Travaillons ensemble</h2>
             <p>
-                Disponible pour des stages, si vous avez un projet de stage ou  voulez simplement discuter, ecrivez-moi.
+                <i>Disponible pour des stages, si vous avez un projet de stage ou voulez simplement discuter, écrivez-moi.</i>
             </p>
 
             <div class="contact-row">

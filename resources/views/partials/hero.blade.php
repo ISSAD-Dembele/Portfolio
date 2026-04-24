@@ -1,6 +1,7 @@
 <div class="hero">
-    <p class="hero-label">ÉTUDIANT EN INGÉNIERIE &amp; INTELLIGENCE ARTIFICIELLE</p>
 
+    <h1>Etudiant en cycle<br><em>Ingénieur d'état.</em></h1>
+    <p class="hero-label">EN INGÉNIERIE &amp; INTELLIGENCE ARTIFICIELLE</p>
     <div class="hero-meta">
         <span>Dépuis 2023</span>
         <span class="shortcut" onclick="focusTerminal()">

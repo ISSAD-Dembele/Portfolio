@@ -1,4 +1,4 @@
-<!-- ══ HISTOIRE OVERLAY ══ -->
+<!-- HISTOIRE -->
 <div class="overlay" id="histoire-overlay">
     <button class="close-btn" onclick="closeHistoire()">✕ fermer</button>
 

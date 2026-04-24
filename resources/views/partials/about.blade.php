@@ -12,7 +12,7 @@
                     <div class="photo-deco2"></div>
                     <div class="photo-container">
                         <img
-                            src="{{ asset('/public/images/issaphoto.JPG') }}"
+                            src="{{ asset('images/issaphoto.JPG') }}"
                             alt="Issa D. Dembele Engineering Student"
                             loading="lazy"
                         >

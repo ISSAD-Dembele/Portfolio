@@ -1,4 +1,4 @@
-<!-- ══ PROJECTS ══ -->
+<!-- PROJECTS -->
 <section id="projects">
     <div class="section-label"> projets</div>
 
@@ -99,7 +99,7 @@ Académique
                     POST /api/ask<br>
                     → "Quel est votre<br>
                     &nbsp;&nbsp; problème ?"<br>
-                    Flask · JSON API
+                    Flask, JSON API, HTML/CSS
                 </div>
             </div>
             <div class="project-header">

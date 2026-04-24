@@ -4,7 +4,8 @@
     <span class="tech-item">JavaScript</span>
     <span class="tech-item">React JS</span>
     <span class="tech-item">Flask</span>
-    <span class="tech-item">HTML/CSS</span>
+    <span class="tech-item">HTML</span>
+    <span class="tech-item">CSS</span>
     <span class="tech-item">C Language</span>
     <span class="tech-item">MySQL</span>
     <span class="tech-item">Laravel</span>
